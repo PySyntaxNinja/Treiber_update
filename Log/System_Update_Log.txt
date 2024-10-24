@@ -1,0 +1,581 @@
+Searching for System_Update.exe in E:/...
+Found: E:/Treibers\LENOVO\kopie\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\kopie\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\kopie\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\kopie\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E14\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E14\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E14\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E14\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E15\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E15\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E15\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E15\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E570\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E570\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E570\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad E570\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L490\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L490\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L490\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L490\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L590\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L590\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L590\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad L590\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1 Gen 2\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1 Gen 2\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1 Gen 2\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1 Gen 2\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1 Gen 5\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1 Gen 5\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1 Gen 5\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P1 Gen 5\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15 Gen 1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15 Gen 1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15 Gen 1\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15 Gen 1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P50\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P50\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P50\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P50\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P52\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P52\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P52\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P52\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P52s\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P52s\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P52s\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P52s\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P53\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P53\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P53\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P53\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P53s\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P53s\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P53s\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P53s\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P71\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P71\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P71\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad P71\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 3\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 3\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 3\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 3\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T460\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T460\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T460\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T460\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T460s\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T460s\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T460s\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T460s\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T470s\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T470s\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T470s\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T470s\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T480\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T480\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T480\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T480\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T480s\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T480s\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T480s\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T480s\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T490\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T490\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T490\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T490\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T490s\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T490s\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T490s\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T490s\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T560\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T560\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T560\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T560\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T570\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T570\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T570\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T570\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T580\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T580\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T580\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T580\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T590\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T590\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T590\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad T590\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 7th\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 7th\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 7th\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 7th\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 10\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 10\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 10\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 10\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 9\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 9\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 9\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 9\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Extreme Gen 3\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Extreme Gen 3\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Extreme Gen 3\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Extreme Gen 3\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 2nd\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 2nd\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 2nd\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 2nd\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 4th\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 4th\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 4th\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 6\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 6\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 6\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 6\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 7\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 7\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 7\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 7\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X12 Detachable Gen 1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X12 Detachable Gen 1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X12 Detachable Gen 1\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X12 Detachable Gen 1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 1\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 1\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 1\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 2\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 2\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 2\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 2\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X250\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X250\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X250\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X250\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X380 Yoga\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X380 Yoga\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X380 Yoga\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X380 Yoga\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X390\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X390\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X390\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X390\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X390 Yoga\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X390 Yoga\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X390 Yoga\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad X390 Yoga\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 260\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 260\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 260\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 260\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 370\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 370\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 370\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 370\INTEL\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 460\AMD\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 460\AMD\Windows11\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 460\INTEL\Windows10\System_Update.exe
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 460\INTEL\Windows11\System_Update.exe
+Found 285 item(s).
+
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
+Searching for System_Update.exe in E:/...
+Replaced: E:/Treibers\LENOVO\kopie\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\kopie\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\kopie\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\kopie\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E14\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E14\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E14\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E14\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E15\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E15\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E15\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E15\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E570\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E570\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E570\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad E570\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L490\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L490\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L490\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L490\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L590\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L590\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L590\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad L590\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1 Gen 2\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1 Gen 2\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1 Gen 2\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1 Gen 2\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1 Gen 5\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1 Gen 5\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1 Gen 5\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P1 Gen 5\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15 Gen 1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15 Gen 1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15 Gen 1\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15 Gen 1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P50\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P50\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P50\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P50\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P52\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P52\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P52\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P52\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P52s\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P52s\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P52s\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P52s\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P53\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P53\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P53\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P53\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P53s\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P53s\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P53s\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P53s\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P71\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P71\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P71\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad P71\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 3\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 3\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 3\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T14s Gen 3\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T460\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T460\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T460\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T460\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T460s\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T460s\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T460s\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T460s\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T470s\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T470s\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T470s\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T470s\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T480\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T480\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T480\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T480\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T480s\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T480s\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T480s\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T480s\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T490\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T490\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T490\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T490\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T490s\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T490s\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T490s\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T490s\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T560\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T560\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T560\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T560\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T570\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T570\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T570\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T570\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T580\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T580\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T580\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T580\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T590\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T590\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T590\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad T590\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 7th\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 7th\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 7th\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon 7th\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 10\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 10\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 10\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 10\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 9\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 9\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 9\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 9\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Extreme Gen 3\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Extreme Gen 3\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Extreme Gen 3\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Extreme Gen 3\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 2nd\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 2nd\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 2nd\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 2nd\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 4th\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 4th\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga 4th\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 6\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 6\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 6\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 6\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 7\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 7\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 7\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 7\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X12 Detachable Gen 1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X12 Detachable Gen 1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X12 Detachable Gen 1\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X12 Detachable Gen 1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 1\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 1\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 1\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 2\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 2\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 2\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X13 Yoga Gen 2\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X250\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X250\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X250\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X250\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X380 Yoga\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X380 Yoga\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X380 Yoga\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X380 Yoga\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X390\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X390\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X390\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X390\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X390 Yoga\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X390 Yoga\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X390 Yoga\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad X390 Yoga\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 260\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 260\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 260\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 260\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 370\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 370\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 370\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 370\INTEL\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 460\AMD\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 460\AMD\Windows11\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 460\INTEL\Windows10\System_Update.exe
+Replaced: E:/Treibers\LENOVO\ThinkPad Yoga 460\INTEL\Windows11\System_Update.exe
+Found 285 file(s).
+Successfully replaced 285 file(s).
+
+
