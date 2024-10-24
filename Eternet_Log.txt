@@ -1,0 +1,179 @@
+Searching for folders named 'Ethernet' in E:/...
+Found: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad E14\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad E14\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad E15\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad E570\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P1\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P50\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P50\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P52\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P52\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P52s\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P52s\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P53\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P53\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P53s\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P71\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad P71\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14\AMD\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\AMD\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\AMD\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14s\AMD\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\AMD\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\AMD\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T460\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T460\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T460s\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T470s\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T470s\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T480\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T480\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T560\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T560\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T580\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad T580\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X250\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X250\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X380 Yoga\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X380 Yoga\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X390\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X390 Yoga\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad X390 Yoga\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 260\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 260\INTEL\Windows11\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 370\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 460\INTEL\Windows10\Ethernet
+Found: E:/Treibers\LENOVO\ThinkPad Yoga 460\INTEL\Windows11\Ethernet
+Found 84 item(s).
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+Searching for folders named 'Ethernet' in E:/...
+Deleted: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\Lenovo ThinkBook 15-IIL\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad E14\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad E14\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad E14 Gen 4\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad E15\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad E15 Gen 2\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad E570\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad L13 Yoga Gen 1\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P1\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P14s Gen 2i\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P15s Gen 1\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P15s Gen 2i\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P50\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P50\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P52\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P52\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P52s\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P52s\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P53\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P53\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P53s\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P71\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad P71\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14\AMD\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\AMD\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\AMD\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14 Gen 1\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14 Gen 2i\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14 Gen 4\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14s\AMD\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\AMD\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\AMD\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14s Gen 1\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14s Gen 2\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T14s Gen 2i\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T15 Gen 1\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T460\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T460\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T460s\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T470s\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T470s\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T480\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T480\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T560\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T560\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T580\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad T580\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Carbon 4th\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Carbon 5th\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Carbon 6th\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Carbon Gen 8\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Yoga 1st\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Yoga 3rd\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1 Yoga Gen 5\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X13 Gen 1\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X13 Gen 2i\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X1C 5th W10DG\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X250\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X250\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X380 Yoga\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X380 Yoga\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X390\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X390 Yoga\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad X390 Yoga\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad Yoga 260\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad Yoga 260\INTEL\Windows11\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad Yoga 370\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad Yoga 460\INTEL\Windows10\Ethernet
+Deleted: E:/Treibers\LENOVO\ThinkPad Yoga 460\INTEL\Windows11\Ethernet
+Found 84 folder(s).
+Successfully deleted 84 folder(s).
+
+
+
